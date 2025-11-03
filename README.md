@@ -126,7 +126,7 @@ parameter_templates = {
 }
 ```
 
-### 🔑 Importance of Paramter Templates:
+### 🔑 Importance of Parameter Templates:
 - These are embedded with SBERT and matched via cosine similarity.
 - The better the examples, the more accurate the parsing.
 - Enables dynamic, similarity-based mapping rather than relying solely on exact keywords.
@@ -137,7 +137,7 @@ parameter_templates = {
 
 ## 📊 Schema and Algorithm Logic for NLP Engine (Mermaid Flowchart)
 
-![SBERT Schema Flowchart](SBERT_FlowChart.png)
+![SBERT Schema Flowchart](SBERT_Algorithm_Logic_Diagram.png)
 
 ## 🧭 SBERT-Based Query Extraction Flow
 
